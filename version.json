@@ -1,5 +1,5 @@
 {
     "version": "1.0.1",
     "mandatory": false,
-    "firmware": "https://raw.githubusercontent.com/thietbicongnghehanc/firmware-esp-32-ota/main/firmware/firmware_v1.0.1.bin"
+    "firmware": "https://github.com/thietbicongnghehanc/firmware-esp-32-ota/raw/d21a368a7c6c33b0d2021655c29bc92d60e2dcc4/firmware/firmware_v1.0.1.bin"
 }
